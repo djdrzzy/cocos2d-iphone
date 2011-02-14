@@ -8,6 +8,9 @@ build/*
 *.perspective 
 *.perspectivev3
 
+# XCode 4 noice
+xcuserdata/
+
 # old school
 .svn
 
